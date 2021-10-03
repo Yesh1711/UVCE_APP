@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "761603107333",
+    "firebase_url": "https://vlearn-f94f7-default-rtdb.firebaseio.com",
+    "project_id": "vlearn-f94f7",
+    "storage_bucket": "vlearn-f94f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761603107333:android:2ae7c5e3af89637e140a6c",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761603107333-gvrd4u4v5ssq5s7e5rdqfss6u46cbi02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3HNH_SjDD84EoW62OcGEiqrh1tQYvsGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761603107333-gvrd4u4v5ssq5s7e5rdqfss6u46cbi02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
